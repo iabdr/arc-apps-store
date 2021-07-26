@@ -1,2 +1,2 @@
-# A Complete Code Of Arc Apps store website.
+# A Complete Code Of Arc Apps Store website.
 https://arcapks.blogspot.com/
