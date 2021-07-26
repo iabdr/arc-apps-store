@@ -1,2 +1,2 @@
-# A Complete Code Of Arc Apps Store Website.
+# Arc Apps Store (Blogger Website) Template.
 https://arcapks.blogspot.com/
